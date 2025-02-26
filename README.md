@@ -9,7 +9,7 @@ and all the other (3D printing) stuff designed by Wolfgang Kierdorf (https://www
 
 Step 1: Get the material
 - The Mechboard64 PCB by MtnBuffalo (order it here: https://www.pcbway.com/project/shareproject/The_MechBoard64_1.html)
-- The free STL-files from my website (get them here: https://www.wolfgangkierdorf.de/retro/c64keyboard.zip)
+- The free STL-files from this GitHub-Repo
 - C64 keycaps (the ones with the cross inside) old or new ones (https://www.cbmstuff.com/index.php?route=product/category&path=83&limit=100)
 - 66 mechanical key switches (https://de.aliexpress.com/item/1005007865371679.html)
 - Some lubricant (like silicone grease) (https://de.aliexpress.com/item/1005007204626264.html)

@@ -36,6 +36,12 @@ Step 3: Clear the prints
 Step 4: Soldering
 - Put the 20 pin header on the backside of the PCB (the side which says MechBoard64 in the lower left corner), then solder it in from THE OTHER side (solder goes on the side that does NOT say MechBoard64!). If you want to use the keyboard with a longboard 64 (breadbin, use J1, otherwise use J2. The solder in the two 3 pin headers at J3.
 - If you want the shift lock to work, you can now solder the Shift Lock Circuits surface mount parts. The keyboard works fine without them, all you loose is the shift lock … I never used that anyway!
+- These are the parts that you need:
+- R1/R4 = 10K resistor
+- R2 = 100K resistor
+- R3 = 56K resistor
+- C1 = 1UF cap
+- C2 = 10NF cap
 
 Step 5: Assembly
 - Cut of the two small plastic pins on the back of EVERY key switch (NOT the metal pins and NOT the big pin in the middle!)

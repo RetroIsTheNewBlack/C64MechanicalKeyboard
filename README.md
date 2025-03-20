@@ -42,6 +42,8 @@ Step 4: Soldering
 - R3 = 56K resistor
 - C1 = 1UF cap
 - C2 = 10NF cap
+- 74HC4050D
+- NE555DR
 
 Step 5: Assembly
 - Cut of the two small plastic pins on the back of EVERY key switch (NOT the metal pins and NOT the big pin in the middle!)
